@@ -2924,6 +2924,7 @@ markers:
   - {type: variant, offset: 7923, length: 1, content: 獎, SBCK: 􅅄}
   - {type: punctuation, offset: 7929, content: (, id: KR4d0311_krp_020-bkkpn1}
   - {type: variant, offset: 7929, length: 1, content: 不, WYG: 黃}
+  - {type: voice, offset: 7929, length: 8, name: note, id: n1}
   - {type: variant, offset: 7930, length: 1, content: 儔, WYG: 朴}
   - {type: variant, offset: 7932, length: 125, content: 京口爲畿内髙平郡夫人毛氏進封和國夫人制勑明德伏波之女自藺發祥和熹太傅之孫由隂毓瑞睠慶源之特異冝寵數之増隆具官某氏性行金相容儀玉度河山禀粹嬪于相國之門江漢毓徽鍾我俔天之妹篤禕衣之致養侈象服之䟽榮號旣正於小君秩更加於大國祗膺休渥茂介耆齡可楊恢除直徽猷閣權, WYG: 差}
   - {type: punctuation, offset: 7933, content: /, id: KR4d0311_krp_020-bkkpn2}
@@ -3139,4 +3140,4 @@ markers:
 
       ', id: KR4d0311_krp_020-bkkkrnewl570}
   back: []
-hash: sha256:554bd49cd32017c7b844225e225cb31c6e33fabaa1b3871327e38e983c4700a5
+hash: sha256:5537fe84efbf0e024ca118f4e3563c249c7b33b052c749b162bec043ab7ad4f4

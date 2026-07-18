@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 2, content: '', id: KR4d0311_SBCK_008-1a03}
   - {type: indent, offset: 2, content: 　　　　, id: KR4d0311_krp_008-bkkind2}
   - {type: punctuation, offset: 4, content: (, id: KR4d0311_krp_008-bkkpn1}
+  - {type: voice, offset: 4, length: 2, name: note, id: n1}
   - {type: variant, offset: 5, length: 0, content: '', WYG: 十餘年窮極滿盛收冀財貨縣官斥賣合三十餘萬萬以充王府用減天下租税之半散其苑囿以業窮民臣聞財用之在天下如血脉行乎一身可通而不可壅王者藏富於民覇者藏富於國其下富不在國又不在民而在於聚歛臣之家蓋自正道不行而人心壞人心壞而吏治壊舍義趨利假公售私朘民自封一孔不貸柄國者又為生姦受盗之府而天下之富偏聚焉此冀所以積至三十餘萬萬而未屬饜也夫財本吾國之有而取以助國財皆吾民之出而還以予民其理順其政公故收冀家以充王府而减租税天下以為快後世莫以為非不謂桓帝能行之也太祖問李承進曰莊宗以英武定中原享國不久何也承進曰莊宗務姑息將士每出禁民衛卒必控馬}
   - {type: page-break, offset: 5, content: '', id: KR4d0311_WYG_008-1b, image: WYG1175/WYG1175-0173d.png}
   - {type: page-break, offset: 5, content: '', id: KR4d0311_WYG_008-2a, image: WYG1175/WYG1175-0174a.png}
@@ -103,6 +104,7 @@ markers:
   - {type: indent, offset: 174, content: 　　　　, id: KR4d0311_krp_008-bkkind5}
   - {type: substitution, offset: 174, original: 凉, replacement: 涼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17200}}
   - {type: punctuation, offset: 176, content: (, id: KR4d0311_krp_008-bkkpn3}
+  - {type: voice, offset: 176, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 178, content: ), id: KR4d0311_krp_008-bkkpn4}
   - {type: 'kr:newline', offset: 178, content: '
 
@@ -214,6 +216,7 @@ markers:
   - {type: indent, offset: 425, content: 　　　　, id: KR4d0311_krp_008-bkkind9}
   - {type: indent, offset: 427, content: 　, id: KR4d0311_krp_008-bkkind10}
   - {type: punctuation, offset: 431, content: (, id: KR4d0311_krp_008-bkkpn5}
+  - {type: voice, offset: 431, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 433, content: ), id: KR4d0311_krp_008-bkkpn6}
   - {type: 'kr:newline', offset: 433, content: '
 
@@ -242,6 +245,7 @@ markers:
   - {type: line-break, offset: 489, content: '', id: KR4d0311_SBCK_008-2b09}
   - {type: indent, offset: 489, content: 　　　　, id: KR4d0311_krp_008-bkkind11}
   - {type: punctuation, offset: 495, content: (, id: KR4d0311_krp_008-bkkpn7}
+  - {type: voice, offset: 495, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 499, content: ), id: KR4d0311_krp_008-bkkpn8}
   - {type: 'kr:newline', offset: 499, content: '
 
@@ -687,6 +691,7 @@ markers:
   - {type: variant, offset: 1476, length: 1, content: 𪷟, SBCK: 􅄥}
   - {type: variant, offset: 1477, length: 1, content: 遮, SBCK: 􅃒}
   - {type: punctuation, offset: 1480, content: (, id: KR4d0311_krp_008-bkkpn9}
+  - {type: voice, offset: 1480, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 1482, content: /, id: KR4d0311_krp_008-bkkpn10}
   - {type: punctuation, offset: 1484, content: ), id: KR4d0311_krp_008-bkkpn11}
   - {type: 'kr:newline', offset: 1485, content: '
@@ -799,6 +804,7 @@ markers:
   - {type: line-break, offset: 1731, content: '', id: KR4d0311_SBCK_008-7a05}
   - {type: indent, offset: 1731, content: 　　　　, id: KR4d0311_krp_008-bkkind43}
   - {type: punctuation, offset: 1732, content: (, id: KR4d0311_krp_008-bkkpn12}
+  - {type: voice, offset: 1732, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 1734, content: ), id: KR4d0311_krp_008-bkkpn13}
   - {type: 'kr:newline', offset: 1734, content: '
 
@@ -827,6 +833,7 @@ markers:
   - {type: line-break, offset: 1790, content: '', id: KR4d0311_SBCK_008-7a10}
   - {type: indent, offset: 1790, content: 　　　　, id: KR4d0311_krp_008-bkkind44}
   - {type: punctuation, offset: 1794, content: (, id: KR4d0311_krp_008-bkkpn14}
+  - {type: voice, offset: 1794, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 1796, content: ), id: KR4d0311_krp_008-bkkpn15}
   - {type: 'kr:newline', offset: 1796, content: '
 
@@ -866,6 +873,7 @@ markers:
   - {type: variant, offset: 1857, length: 4, content: 逺簿二首, WYG: 也然豈徒以階級之法懲之哉平時撫養不吝爵賞茍犯法則有劍恩施而後威立宜軍心悦服不敢輕於有犯也憲宗嘗與宰相論治道於延英殿日旰暑甚汙透御服宰相恐上體倦求退上留之曰朕入禁中所與處者獨宫人宦官爾故樂與卿等共談為理之要殊不知倦也人心不可以兩用有所慕則有所忘好善者忘酒樂德者忘色八年於外急於拯}
   - {type: page-break, offset: 1857, content: '', id: KR4d0311_WYG_008-3b, image: WYG1175/WYG1175-0174d.png}
   - {type: punctuation, offset: 1859, content: (, id: KR4d0311_krp_008-bkkpn16}
+  - {type: voice, offset: 1859, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 1861, content: ), id: KR4d0311_krp_008-bkkpn17}
   - {type: 'kr:newline', offset: 1861, content: '
 
@@ -980,6 +988,7 @@ markers:
   - {type: line-break, offset: 2086, content: '', id: KR4d0311_SBCK_008-8b01}
   - {type: indent, offset: 2086, content: 　　　　, id: KR4d0311_krp_008-bkkind52}
   - {type: punctuation, offset: 2090, content: (, id: KR4d0311_krp_008-bkkpn18}
+  - {type: voice, offset: 2090, length: 10, name: note, id: n9}
   - {type: punctuation, offset: 2095, content: /, id: KR4d0311_krp_008-bkkpn19}
   - {type: punctuation, offset: 2100, content: ), id: KR4d0311_krp_008-bkkpn20}
   - {type: 'kr:newline', offset: 2100, content: '
@@ -1236,6 +1245,7 @@ markers:
   - {type: line-break, offset: 2794, content: '', id: KR4d0311_SBCK_008-10b02}
   - {type: indent, offset: 2794, content: 　　　　, id: KR4d0311_krp_008-bkkind61}
   - {type: punctuation, offset: 2800, content: (, id: KR4d0311_krp_008-bkkpn21}
+  - {type: voice, offset: 2800, length: 4, name: note, id: n10}
   - {type: punctuation, offset: 2804, content: ), id: KR4d0311_krp_008-bkkpn22}
   - {type: 'kr:newline', offset: 2804, content: '
 
@@ -1772,6 +1782,7 @@ markers:
   - {type: indent, offset: 4086, content: 　　　　, id: KR4d0311_krp_008-bkkind85}
   - {type: variant, offset: 4086, length: 1, content: 寄, SBCK: 􅀉}
   - {type: punctuation, offset: 4090, content: (, id: KR4d0311_krp_008-bkkpn23}
+  - {type: voice, offset: 4090, length: 14, name: note, id: n11}
   - {type: punctuation, offset: 4097, content: /, id: KR4d0311_krp_008-bkkpn24}
   - {type: punctuation, offset: 4104, content: ), id: KR4d0311_krp_008-bkkpn25}
   - {type: 'kr:newline', offset: 4104, content: '
@@ -1795,6 +1806,7 @@ markers:
       ', id: KR4d0311_krp_008-bkkkrnewl340}
   - {type: line-break, offset: 4161, content: '', id: KR4d0311_SBCK_008-15a05}
   - {type: punctuation, offset: 4164, content: (, id: KR4d0311_krp_008-bkkpn26}
+  - {type: voice, offset: 4164, length: 2, name: note, id: n12}
   - {type: punctuation, offset: 4166, content: ), id: KR4d0311_krp_008-bkkpn27}
   - {type: substitution, offset: 4176, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 4180, content: '
@@ -1821,6 +1833,7 @@ markers:
   - {type: line-break, offset: 4226, content: '', id: KR4d0311_SBCK_008-15a09}
   - {type: indent, offset: 4226, content: 　　　　, id: KR4d0311_krp_008-bkkind86}
   - {type: punctuation, offset: 4228, content: (, id: KR4d0311_krp_008-bkkpn28}
+  - {type: voice, offset: 4228, length: 6, name: note, id: n13}
   - {type: variant, offset: 4229, length: 40, content: 邑令建長橋麥黄蠶登簇秧青雨催耕農家竭作時無工搏蚊蝱短杠鴈鶩進脩繂螻蟻行謨蓋溪壑滿, WYG: ''}
   - {type: punctuation, offset: 4231, content: /, id: KR4d0311_krp_008-bkkpn29}
   - {type: punctuation, offset: 4234, content: ), id: KR4d0311_krp_008-bkkpn30}
@@ -1968,6 +1981,7 @@ markers:
   - {type: indent, offset: 4550, content: 　　　　, id: KR4d0311_krp_008-bkkind93}
   - {type: indent, offset: 4552, content: 　, id: KR4d0311_krp_008-bkkind94}
   - {type: punctuation, offset: 4560, content: (, id: KR4d0311_krp_008-bkkpn31}
+  - {type: voice, offset: 4560, length: 2, name: note, id: n14}
   - {type: punctuation, offset: 4562, content: ), id: KR4d0311_krp_008-bkkpn32}
   - {type: 'kr:newline', offset: 4562, content: '
 
@@ -2067,6 +2081,7 @@ markers:
   - {type: line-break, offset: 4797, content: '', id: KR4d0311_SBCK_008-17a08}
   - {type: indent, offset: 4797, content: 　　　　, id: KR4d0311_krp_008-bkkind97}
   - {type: punctuation, offset: 4801, content: (, id: KR4d0311_krp_008-bkkpn33}
+  - {type: voice, offset: 4801, length: 2, name: note, id: n15}
   - {type: punctuation, offset: 4803, content: ), id: KR4d0311_krp_008-bkkpn34}
   - {type: 'kr:newline', offset: 4803, content: '
 
@@ -2171,8 +2186,10 @@ markers:
   - {type: line-break, offset: 5081, content: '', id: KR4d0311_SBCK_008-18a04}
   - {type: indent, offset: 5081, content: 　　　　, id: KR4d0311_krp_008-bkkind102}
   - {type: punctuation, offset: 5084, content: (, id: KR4d0311_krp_008-bkkpn35}
+  - {type: voice, offset: 5084, length: 2, name: note, id: n16}
   - {type: punctuation, offset: 5086, content: ), id: KR4d0311_krp_008-bkkpn36}
   - {type: punctuation, offset: 5088, content: (, id: KR4d0311_krp_008-bkkpn37}
+  - {type: voice, offset: 5088, length: 2, name: note, id: n17}
   - {type: punctuation, offset: 5090, content: ), id: KR4d0311_krp_008-bkkpn38}
   - {type: 'kr:newline', offset: 5090, content: '
 
@@ -2349,6 +2366,7 @@ markers:
   - {type: indent, offset: 5512, content: 　　　　, id: KR4d0311_krp_008-bkkind111}
   - {type: indent, offset: 5514, content: 　, id: KR4d0311_krp_008-bkkind112}
   - {type: punctuation, offset: 5520, content: (, id: KR4d0311_krp_008-bkkpn39}
+  - {type: voice, offset: 5520, length: 2, name: note, id: n18}
   - {type: punctuation, offset: 5522, content: ), id: KR4d0311_krp_008-bkkpn40}
   - {type: 'kr:newline', offset: 5522, content: '
 
@@ -2762,6 +2780,7 @@ markers:
   - {type: substitution, offset: 6541, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: substitution, offset: 6542, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
   - {type: punctuation, offset: 6544, content: (, id: KR4d0311_krp_008-bkkpn41}
+  - {type: voice, offset: 6544, length: 5, name: note, id: n19}
   - {type: punctuation, offset: 6547, content: /, id: KR4d0311_krp_008-bkkpn42}
   - {type: punctuation, offset: 6549, content: ), id: KR4d0311_krp_008-bkkpn43}
   - {type: 'kr:newline', offset: 6549, content: '
@@ -2937,6 +2956,7 @@ markers:
   - {type: substitution, offset: 6924, original: 抺, replacement: 抹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19786}}
   - {type: variant, offset: 6931, length: 90, content: 絇短雪不堪搔李尚書季允度侍郎周卿趙侍郎履常趙侍郎適道同待宣六月十六日宣鎻禁門深鑰寂無譁濃墨淋漓兩相麻唱徹五更天未曉一池月浸紫薇花恭和御製賜呉叔告巳下聞喜宴詩致主唐虞澤兆民賢才端是國, WYG: 之敬每事收歛}
   - {type: punctuation, offset: 6937, content: (, id: KR4d0311_krp_008-bkkpn44}
+  - {type: voice, offset: 6937, length: 23, name: note, id: n20}
   - {type: punctuation, offset: 6938, content: /, id: KR4d0311_krp_008-bkkpn45}
   - {type: punctuation, offset: 6939, content: ), id: KR4d0311_krp_008-bkkpn46}
   - {type: 'kr:newline', offset: 6939, content: '
@@ -3215,6 +3235,7 @@ markers:
   - {type: variant, offset: 7518, length: 63, content: 看壓得兩緋衫游景仁呉叔永兼權侍郎太廟致齋風雨殘春晚作晴寳山深静勃鳩鳴雲収翠㦸龍文潤日透金鋪獸面明蠶出火時桑正沃秧抽頴處麥還成在, WYG: 為喜常以}
   - {type: punctuation, offset: 7524, content: (, id: KR4d0311_krp_008-bkkpn50}
   - {type: substitution, offset: 7524, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
+  - {type: voice, offset: 7524, length: 10, name: note, id: n21}
   - {type: substitution, offset: 7527, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: punctuation, offset: 7529, content: /, id: KR4d0311_krp_008-bkkpn51}
   - {type: punctuation, offset: 7534, content: ), id: KR4d0311_krp_008-bkkpn52}
@@ -3261,4 +3282,4 @@ markers:
 
       ', id: KR4d0311_krp_008-bkkkrnewl606}
   back: []
-hash: sha256:8d42e98cd9b0f06ff53719858eaabea6c944d766fa63d0db558498c697e8f34c
+hash: sha256:5e20ee1acc2250fd935b5aad9242472c1d09a9d5790277ecce013600eac7536e

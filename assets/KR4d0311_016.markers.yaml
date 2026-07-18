@@ -763,6 +763,7 @@ markers:
   - {type: line-break, offset: 1757, content: '', id: KR4d0311_SBCK_016-6a02}
   - {type: variant, offset: 1765, length: 252, content: 寄餘同上賜權兵部侍郎四川安撫制置使趙彦呐銀合夏藥勑書卿天派名流坤維重寄餘同上賜司農卿知慶元府兼㳂海制置使游九功銀合夏藥勑書炎令司衡赫威鑠石廼睠輔藩之彦具宣制閫之勞爰錫珍良式資寶衛賜右文殿修撰四川安撫制置副使兼知成都府丁黼銀合夏藥勑書廼睠漢廷之彦具宣蜀閫之勞餘同游九功詞賜兵部郎官兼淮西安撫制置副使兼知黄州楊恢銀合夏藥勑書廼睠漢廷之彦具宣淮閫之勞餘同游九功詞賜直寶章閣權發遣鄂州兼權㳂江制置副使張元簡銀合夏藥勑書炎令司衡赫威鑠石廼睠上流之寄具宣外禦之勞爰錫珍良式資寶衛賜鎮江府都統制王虎池州都統制趙邦永鄂州, WYG: 祗承休渥益勵忠勤可}
   - {type: punctuation, offset: 1766, content: (, id: KR4d0311_krp_016-bkkpn1}
+  - {type: voice, offset: 1766, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 1769, content: ), id: KR4d0311_krp_016-bkkpn2}
   - {type: 'kr:newline', offset: 1769, content: '
 
@@ -781,6 +782,7 @@ markers:
   - {type: line-break, offset: 1791, content: '', id: KR4d0311_SBCK_016-6a05}
   - {type: variant, offset: 1793, length: 1, content: 派, SBCK: 􅂀}
   - {type: punctuation, offset: 1800, content: (, id: KR4d0311_krp_016-bkkpn3}
+  - {type: voice, offset: 1800, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 1803, content: ), id: KR4d0311_krp_016-bkkpn4}
   - {type: 'kr:newline', offset: 1803, content: '
 
@@ -827,6 +829,7 @@ markers:
   - {type: substitution, offset: 1882, original: 睠, replacement: 眷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17354}}
   - {type: substitution, offset: 1886, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: punctuation, offset: 1893, content: (, id: KR4d0311_krp_016-bkkpn5}
+  - {type: voice, offset: 1893, length: 6, name: note, id: n3}
   - {type: substitution, offset: 1895, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 1896, content: /, id: KR4d0311_krp_016-bkkpn6}
   - {type: punctuation, offset: 1899, content: ), id: KR4d0311_krp_016-bkkpn7}
@@ -849,6 +852,7 @@ markers:
   - {type: substitution, offset: 1926, original: 睠, replacement: 眷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17354}}
   - {type: substitution, offset: 1930, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: punctuation, offset: 1937, content: (, id: KR4d0311_krp_016-bkkpn8}
+  - {type: voice, offset: 1937, length: 6, name: note, id: n4}
   - {type: substitution, offset: 1939, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 1940, content: /, id: KR4d0311_krp_016-bkkpn9}
   - {type: punctuation, offset: 1943, content: ), id: KR4d0311_krp_016-bkkpn10}
@@ -1181,6 +1185,7 @@ markers:
   - {type: line-break, offset: 2694, content: '', id: KR4d0311_SBCK_016-9a05}
   - {type: variant, offset: 2700, length: 1, content: 指, SBCK: 􅃌}
   - {type: punctuation, offset: 2703, content: (, id: KR4d0311_krp_016-bkkpn11}
+  - {type: voice, offset: 2703, length: 3, name: note, id: n5}
   - {type: punctuation, offset: 2706, content: ), id: KR4d0311_krp_016-bkkpn12}
   - {type: 'kr:newline', offset: 2706, content: '
 
@@ -1373,6 +1378,7 @@ markers:
   - {type: line-break, offset: 3147, content: '', id: KR4d0311_SBCK_016-10b04}
   - {type: variant, offset: 3151, length: 1, content: 寄, SBCK: 􅀉}
   - {type: punctuation, offset: 3156, content: (, id: KR4d0311_krp_016-bkkpn13}
+  - {type: voice, offset: 3156, length: 6, name: note, id: n6}
   - {type: substitution, offset: 3158, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 3159, content: /, id: KR4d0311_krp_016-bkkpn14}
   - {type: punctuation, offset: 3162, content: ), id: KR4d0311_krp_016-bkkpn15}
@@ -2727,4 +2733,4 @@ markers:
 
       ', id: KR4d0311_krp_016-bkkkrnewl501}
   back: []
-hash: sha256:6b32187d4794d4e76c59941e7a3a714da2b0a9e4abebf3e8409560f65648ee86
+hash: sha256:99cca5687a22f448a39d7b3ede9dfef45871f44f7d9284128c6c64165242a537

@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 2, content: '', id: KR4d0311_SBCK_012-1a03}
   - {type: indent, offset: 2, content: 　　　　, id: KR4d0311_krp_012-bkkind2}
   - {type: punctuation, offset: 7, content: (, id: KR4d0311_krp_012-bkkpn1}
+  - {type: voice, offset: 7, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 9, content: ), id: KR4d0311_krp_012-bkkpn2}
   - {type: 'kr:newline', offset: 9, content: '
 
@@ -70,6 +71,7 @@ markers:
   - {type: line-break, offset: 126, content: '', id: KR4d0311_SBCK_012-1a11}
   - {type: indent, offset: 126, content: 　　　　, id: KR4d0311_krp_012-bkkind4}
   - {type: punctuation, offset: 135, content: (, id: KR4d0311_krp_012-bkkpn3}
+  - {type: voice, offset: 135, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 139, content: ), id: KR4d0311_krp_012-bkkpn4}
   - {type: 'kr:newline', offset: 139, content: '
 
@@ -204,6 +206,7 @@ markers:
   - {type: indent, offset: 555, content: 　　　　, id: KR4d0311_krp_012-bkkind8}
   - {type: variant, offset: 562, length: 30, content: 申省狀甲午四月右某今月十五日凖尚書省劄子節文三省同奉御筆洪某, WYG: 王遂辭免}
   - {type: punctuation, offset: 565, content: (, id: KR4d0311_krp_012-bkkpn5}
+  - {type: voice, offset: 565, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 569, content: ), id: KR4d0311_krp_012-bkkpn6}
   - {type: 'kr:newline', offset: 569, content: '
 
@@ -855,6 +858,7 @@ markers:
   - {type: indent, offset: 2438, content: 　　　　, id: KR4d0311_krp_012-bkkind27}
   - {type: variant, offset: 2444, length: 6, content: 院奏乙未右臣, WYG: 大夫之益如此朕知卿和而能敬始進之以頥}
   - {type: punctuation, offset: 2446, content: (, id: KR4d0311_krp_012-bkkpn7}
+  - {type: voice, offset: 2446, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2448, content: ), id: KR4d0311_krp_012-bkkpn8}
   - {type: 'kr:newline', offset: 2448, content: '
 
@@ -1187,6 +1191,7 @@ markers:
   - {type: line-break, offset: 3458, content: '', id: KR4d0311_SBCK_012-10a06}
   - {type: indent, offset: 3458, content: 　　　　, id: KR4d0311_krp_012-bkkind43}
   - {type: punctuation, offset: 3465, content: (, id: KR4d0311_krp_012-bkkpn9}
+  - {type: voice, offset: 3465, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 3469, content: ), id: KR4d0311_krp_012-bkkpn10}
   - {type: 'kr:newline', offset: 3469, content: '
 
@@ -2015,6 +2020,7 @@ markers:
   - {type: line-break, offset: 5986, content: '', id: KR4d0311_SBCK_012-16b07}
   - {type: punctuation, offset: 5997, content: (, id: KR4d0311_krp_012-bkkpn11}
   - {type: variant, offset: 5997, length: 1, content: 鉞, SBCK: 􅃏}
+  - {type: voice, offset: 5997, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 5998, content: ), id: KR4d0311_krp_012-bkkpn12}
   - {type: 'kr:newline', offset: 6005, content: '
 
@@ -2036,6 +2042,7 @@ markers:
       ', id: KR4d0311_krp_012-bkkkrnewl382}
   - {type: line-break, offset: 6062, content: '', id: KR4d0311_SBCK_012-16b11}
   - {type: punctuation, offset: 6076, content: (, id: KR4d0311_krp_012-bkkpn13}
+  - {type: voice, offset: 6076, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 6077, content: ), id: KR4d0311_krp_012-bkkpn14}
   - {type: substitution, offset: 6077, original: 輙, replacement: 輒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18316}}
   - {type: 'kr:newline', offset: 6081, content: '
@@ -2047,6 +2054,7 @@ markers:
       ', id: KR4d0311_krp_012-bkkkrnewl384}
   - {type: line-break, offset: 6081, content: '', id: KR4d0311_SBCK_012-17a01}
   - {type: punctuation, offset: 6097, content: (, id: KR4d0311_krp_012-bkkpn15}
+  - {type: voice, offset: 6097, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 6098, content: ), id: KR4d0311_krp_012-bkkpn16}
   - {type: 'kr:newline', offset: 6100, content: '
 
@@ -2067,6 +2075,7 @@ markers:
   - {type: indent, offset: 6132, content: 　, id: KR4d0311_krp_012-bkkind72}
   - {type: substitution, offset: 6133, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 6137, content: (, id: KR4d0311_krp_012-bkkpn17}
+  - {type: voice, offset: 6137, length: 1, name: note, id: n9}
   - {type: punctuation, offset: 6138, content: ), id: KR4d0311_krp_012-bkkpn18}
   - {type: 'kr:newline', offset: 6146, content: '
 
@@ -2085,4 +2094,4 @@ markers:
 
       ', id: KR4d0311_krp_012-bkkkrnewl391}
   back: []
-hash: sha256:546ef0a90607fcb80ad74fec397228c9e388d4953fd01d7c7a1c21827774a24e
+hash: sha256:c56ffb6a694037a23de9c3859156ad80b63c5aea2280e5235454d8ba024f1213
